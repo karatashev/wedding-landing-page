@@ -1,0 +1,8 @@
+.banner {
+  min-height: calc(100vh - 61.1px);
+  background-image: url('../../images/slide-home-main-image-2.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

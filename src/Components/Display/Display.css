@@ -1,0 +1,21 @@
+.second-cont {
+  background-color: #f9f9f9b1;
+}
+
+.second-cont .inner {
+  display: flex;
+}
+
+.second-cont .img-box {
+  flex: 0 0 50%;
+}
+
+.second-cont .content-box {
+  flex: 1 1 50%;
+  align-self: center;
+  padding-left: 60px;
+}
+
+.second-cont .content-box > *:last-child {
+  margin-bottom: 0;
+}
